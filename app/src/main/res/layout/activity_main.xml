@@ -38,6 +38,16 @@
     <Button
             android:text="@string/shate_to_other_apps"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:layout_centerHorizontal="true"
-            android:layout_alignParentBottom="true" android:id="@+id/btnShared" android:layout_marginBottom="153dp"/>
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:id="@+id/btnShared" android:layout_marginBottom="153dp"/>
+    <Button
+            android:text="@string/recyclerview_demo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:id="@+id/btnRecycler"
+            android:layout_marginBottom="99dp"/>
 </RelativeLayout>
