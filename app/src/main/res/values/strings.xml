@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="ola_k_ace">Ola K ace?</string>
+    <string name="show_toast">Show Toast</string>
 </resources>
